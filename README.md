@@ -6,7 +6,6 @@ A new Flutter project.
 <h1 align="center">Task 1</h1>
 <p align ="center">
   
-  <a href ="https://github.com/Avesh6754/antomy2/tree/master/lib">
   <img src="https://github.com/Avesh6754/ecommerce2/assets/149478146/d7da5e4d-8147-4678-b29f-d1c62dc8d51e" width="22%" Height="35%">
   </a>
   </p>
@@ -57,6 +56,15 @@ A new Flutter project.
 <p align ="center">
   
   <img src="https://github.com/Avesh6754/ecommerce2/assets/149478146/7cd28044-c023-4bd4-a8d4-df79e8738ef4" width="22%" Height="35%">
+  </a>
+  </p>
+<hr>
+<hr>
+<h1 align="center">Task 8</h1>
+<p align ="center">
+  
+  <img src="https://github.com/Avesh6754/ecommerce2/assets/149478146/44618552-4467-4c36-8b0f-75be376eedc4" width="22%" Height="35%">
+
   </a>
   </p>
 <hr>
