@@ -49,7 +49,7 @@ class MyApp extends StatelessWidget {
                   height: 250,
                   width: 250,
                   decoration:
-                      BoxDecoration(shape: BoxShape.circle, color: oragnecolor),
+                  BoxDecoration(shape: BoxShape.circle, color: oragnecolor),
                   child: Container(
                     child: Row(
                       children: [
